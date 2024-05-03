@@ -1,0 +1,269 @@
+gender,age,race,edu,jsat
+Male,28,NA,Completed College/University,4.6
+Gender Minority,24,South Asian,Completed College/University,NA
+Gender Minority,28,East Asian,Completed College/University,4.8
+Male,29,White,Completed College/University,6.1
+Gender Minority,25,White,Completed College/University,NA
+NA,25,White,Completed College/University,5.6
+Gender Minority,50,NA,Completed Postgraduate Education,7
+Male,28,White,Completed College/University,4.7
+NA,72,White,Apprenticeship/Trades,5.9
+Male,29,White,Completed College/University,5.9
+Male,NA,Southeast Asian,Some College/University,5.7
+NA,24,LatinX,Some College/University,5.7
+Gender Minority,37,White,NA,5.8
+Male,29,White,NA,4.4
+NA,59,White,Some College/University,6
+Gender Minority,23,White,Completed College/University,4.2
+Gender Minority,34,White,Completed College/University,NA
+Male,40,White,NA,6.6
+Gender Minority,25,White,Completed College/University,3.6
+Male,53,White,NA,5.3
+Gender Minority,67,Black,Some College/University,4.8
+Gender Minority,46,White,Some College/University,NA
+Gender Minority,NA,White,Completed College/University,4.4
+Male,34,White,Completed Postgraduate Education,5.9
+Gender Minority,51,NA,Completed Postgraduate Education,5.6
+NA,60,LatinX,Some College/University,7
+Gender Minority,24,LatinX,Completed College/University,6.3
+Gender Minority,49,Black,NA,5.2
+Male,29,East Asian,Completed Postgraduate Education,6.1
+Gender Minority,NA,Black,Completed College/University,6.9
+Male,36,White,Completed College/University,5.7
+NA,23,White,Some College/University,6.6
+Gender Minority,57,White,Completed High School,5.8
+Gender Minority,29,White,Some Postgraduate Education,NA
+Gender Minority,59,South Asian,NA,5.4
+Gender Minority,26,NA,Completed College/University,5.5
+Male,34,LatinX,Completed High School,3.7
+Male,61,White,Completed College/University,2.9
+Male,64,White,NA,6
+Male,32,South Asian,Completed College/University,6
+Male,33,White,Some College/University,5.8
+NA,25,White,Completed Postgraduate Education,6
+Male,30,White,Completed College/University,6.8
+NA,35,White,Some Postgraduate Education,6.8
+Gender Minority,24,NA,Completed College/University,6.5
+Gender Minority,NA,White,Completed Postgraduate Education,6.9
+Gender Minority,43,White,Completed College/University,4.3
+Gender Minority,NA,White,Some College/University,6.4
+Male,32,White,Completed College/University,5.4
+Gender Minority,48,White,NA,6
+Gender Minority,53,White,Completed Postgraduate Education,NA
+Male,23,East Asian,Completed College/University,5
+NA,29,East Asian,Completed Postgraduate Education,7
+Gender Minority,25,White,Completed College/University,NA
+Gender Minority,26,South Asian,Some Postgraduate Education,3.5
+Gender Minority,46,East Asian,Completed Postgraduate Education,NA
+Gender Minority,NA,Black,Some Postgraduate Education,4.2
+Gender Minority,75,White,NA,7
+Gender Minority,28,East Asian,Completed Postgraduate Education,NA
+Gender Minority,32,NA,Completed High School,6.5
+Male,NA,White,Completed Postgraduate Education,5.8
+Male,31,White,Some College/University,5.2
+Gender Minority,NA,White,Some Postgraduate Education,6.3
+Gender Minority,NA,Black,Completed College/University,6.6
+Gender Minority,46,White,Completed College/University,5.2
+NA,69,White,Completed College/University,6.3
+Male,37,Black,Completed Postgraduate Education,NA
+Male,48,Black,Completed College/University,5.2
+Male,44,White,NA,4.7
+NA,70,White,Some College/University,5.6
+Gender Minority,39,White,Completed Postgraduate Education,5.1
+Male,40,White,Completed College/University,6.3
+Male,32,White,Completed College/University,6.4
+Gender Minority,23,Black,Completed College/University,NA
+Gender Minority,38,White,Completed College/University,6.7
+Male,35,East Asian,Completed College/University,6.1
+NA,29,White,Completed College/University,6.4
+Male,54,LatinX,NA,5.9
+Male,28,Southeast Asian,Completed High School,3.5
+Male,24,White,Completed College/University,NA
+Male,48,Black,Completed College/University,6
+Male,35,South Asian,Completed Postgraduate Education,6.6
+Male,60,White,Some College/University,3.1
+NA,35,White,Some College/University,6.7
+Male,NA,White,Completed College/University,6.1
+Gender Minority,30,Black,Completed College/University,6.7
+Male,30,White,Completed Postgraduate Education,6.3
+NA,44,Black,Completed Postgraduate Education,5.8
+Male,20,NA,Some College/University,5.3
+Gender Minority,21,White,Some Postgraduate Education,5.9
+Male,56,White,NA,3.6
+Gender Minority,33,Black,Some College/University,5
+Male,34,NA,Some Postgraduate Education,4.1
+NA,60,White,Completed High School,4.2
+Male,34,White,Completed College/University,NA
+Male,45,White,Some College/University,5.6
+Male,49,White,Completed College/University,NA
+Male,35,White,Completed Postgraduate Education,3.8
+Male,73,White,Some College/University,6.1
+NA,34,White,Completed College/University,6
+Male,49,East Asian,Completed Postgraduate Education,NA
+Male,58,White,Completed College/University,4
+Male,36,Native,Some College/University,6.4
+Male,53,NA,Completed College/University,5.4
+Male,26,Black,Completed College/University,4.3
+Male,47,Native,Completed High School,5.2
+Male,24,NA,Completed College/University,6.2
+Male,24,NA,Some High School,5.2
+Gender Minority,60,White,NA,4.1
+Male,53,White,Completed College/University,5.5
+Male,69,White,Completed College/University,3.9
+Gender Minority,31,Native,Completed College/University,5.4
+Male,48,White,Completed College/University,2.6
+Gender Minority,39,LatinX,Some College/University,7
+Gender Minority,NA,White,Completed College/University,4.4
+Male,61,White,Completed College/University,3.5
+Male,51,LatinX,Some College/University,3.5
+Male,35,NA,Completed College/University,4.4
+Gender Minority,57,White,Some College/University,5
+Gender Minority,52,White,NA,4.4
+Male,41,Southeast Asian,Completed College/University,1.7
+Gender Minority,69,White,Completed High School,NA
+Male,65,NA,Completed College/University,6.2
+Gender Minority,42,White,Completed College/University,NA
+Male,32,White,Completed College/University,2
+Gender Minority,54,White,NA,6.2
+Male,51,NA,Completed College/University,4.5
+Male,63,NA,Completed Postgraduate Education,4.6
+Gender Minority,48,LatinX,Completed Postgraduate Education,3.4
+Male,38,White,Completed College/University,4.2
+Gender Minority,54,White,Completed High School,2.9
+Gender Minority,49,White,Completed College/University,NA
+Gender Minority,NA,White,Completed Postgraduate Education,3.9
+Gender Minority,55,White,Completed High School,4.9
+Gender Minority,49,NA,Completed College/University,4.2
+Male,23,LatinX,Completed High School,4
+Male,28,LatinX,Completed College/University,3.2
+Gender Minority,24,East Asian,Some College/University,6.3
+Gender Minority,35,White,Some Postgraduate Education,NA
+Gender Minority,62,Black,Some College/University,NA
+Gender Minority,50,LatinX,NA,5.4
+Gender Minority,NA,White,Completed College/University,4.9
+Gender Minority,NA,White,Completed High School,7
+Male,35,East Asian,Completed Postgraduate Education,3.3
+NA,69,White,Some College/University,5
+Gender Minority,58,Black,NA,6.8
+NA,23,White,Completed Postgraduate Education,6.3
+Gender Minority,30,White,Some College/University,6.3
+Gender Minority,26,Black,Some College/University,7
+Male,33,White,Completed Postgraduate Education,6.9
+NA,60,White,Some College/University,7
+Gender Minority,64,LatinX,Some College/University,6.8
+Gender Minority,25,Southeast Asian,Completed College/University,6.1
+Male,48,White,Completed College/University,6.8
+Gender Minority,62,White,Apprenticeship/Trades,NA
+Male,41,East Asian,Completed College/University,5.8
+Gender Minority,32,NA,Some College/University,5.9
+Gender Minority,25,East Asian,Completed College/University,6.7
+Gender Minority,41,White,NA,6.6
+Male,27,Black,NA,7
+Male,NA,LatinX,Completed College/University,6.9
+Male,33,White,Completed Postgraduate Education,7
+Male,31,Middle Eastern,Completed Postgraduate Education,6.7
+Male,27,Black,Some College/University,7
+Male,34,Southeast Asian,Completed College/University,7
+Male,26,South Asian,Some College/University,6.8
+Male,43,White,Some College/University,7
+Male,56,South Asian,Completed Postgraduate Education,7
+Male,32,Southeast Asian,Completed College/University,7
+Gender Minority,32,White,Some College/University,7
+Male,NA,White,Completed High School,6.6
+Male,NA,White,Completed Postgraduate Education,6.7
+Male,30,White,Completed High School,6.8
+Male,42,White,Completed College/University,NA
+Male,NA,White,Completed High School,7
+Male,29,Southeast Asian,Completed College/University,6.7
+Gender Minority,43,Black,Completed Postgraduate Education,7
+Male,31,LatinX,Completed College/University,5.9
+NA,57,White,Completed Postgraduate Education,6.5
+Gender Minority,30,White,Completed College/University,4.8
+Gender Minority,66,NA,Some College/University,6.8
+Gender Minority,NA,White,Completed High School,6.8
+Male,NA,Native,Completed Postgraduate Education,5.8
+Male,31,White,Completed College/University,5.9
+Male,29,LatinX,Some College/University,6.9
+Gender Minority,49,NA,Completed High School,6.7
+Gender Minority,39,Black,Completed College/University,7
+Male,26,Black,Completed High School,6
+Gender Minority,46,White,Completed High School,NA
+Male,32,LatinX,Completed High School,6.9
+NA,23,White,Apprenticeship/Trades,4.7
+Gender Minority,23,South Asian,Completed College/University,6.5
+Gender Minority,41,Native,Completed College/University,7
+Gender Minority,36,NA,Completed College/University,7
+Male,NA,White,Completed College/University,6.9
+Gender Minority,NA,White,Completed College/University,6.3
+NA,36,White,Completed College/University,5.8
+Male,39,White,Completed College/University,6.7
+Gender Minority,31,White,Completed College/University,6.7
+Gender Minority,NA,East Asian,Completed College/University,6.2
+Male,51,White,Completed College/University,6.4
+Gender Minority,40,Middle Eastern,Some College/University,6.8
+Male,52,NA,Completed Postgraduate Education,5.5
+Gender Minority,36,White,NA,6.9
+Male,47,White,Completed College/University,5.7
+Male,34,White,Completed College/University,NA
+Gender Minority,49,White,Some College/University,5.4
+NA,32,White,Completed College/University,6.4
+Male,38,NA,Some College/University,6.6
+Gender Minority,41,LatinX,Some College/University,NA
+Male,37,White,Completed College/University,6.5
+Male,23,Middle Eastern,Completed College/University,NA
+Gender Minority,36,White,Some College/University,5.8
+Male,48,White,NA,5.8
+Gender Minority,40,NA,Apprenticeship/Trades,5.1
+Male,34,NA,Completed College/University,4.9
+Male,48,White,Completed College/University,NA
+Male,31,East Asian,Completed Postgraduate Education,6.7
+Gender Minority,22,Middle Eastern,Completed College/University,NA
+Male,54,White,Completed High School,6.9
+NA,56,White,Completed College/University,5.7
+Gender Minority,41,NA,Some Postgraduate Education,5.9
+Gender Minority,NA,LatinX,Some College/University,5.4
+Male,58,NA,Completed Postgraduate Education,5.6
+Gender Minority,36,White,Completed College/University,NA
+Male,43,Black,Completed College/University,5.3
+Gender Minority,29,NA,Completed College/University,5.6
+Gender Minority,50,East Asian,Completed College/University,6.3
+Gender Minority,21,White,NA,5.6
+Gender Minority,67,NA,Completed College/University,4.7
+Gender Minority,26,White,Completed College/University,5.2
+Male,51,White,Apprenticeship/Trades,5.1
+Gender Minority,66,White,Completed College/University,4.8
+Male,36,LatinX,Completed College/University,3.3
+Gender Minority,56,Native,NA,5.7
+NA,25,White,Completed College/University,4.5
+Male,65,White,Some College/University,5.6
+Male,48,White,Completed College/University,3.4
+Male,41,White,Completed Postgraduate Education,5.1
+Male,39,White,Completed College/University,5.4
+Gender Minority,60,White,Completed Postgraduate Education,5.5
+Male,26,Black,Completed High School,4.7
+Gender Minority,42,White,Completed High School,3.6
+Gender Minority,55,White,Completed High School,4.2
+Male,34,White,Completed High School,4.3
+Male,26,White,Completed High School,5.3
+Male,32,White,Completed High School,3.5
+Male,57,NA,Completed Postgraduate Education,4.3
+Gender Minority,44,NA,Some College/University,4.3
+Gender Minority,21,White,Some College/University,3.8
+Male,44,White,Completed College/University,NA
+Male,40,NA,Completed Postgraduate Education,3.2
+Male,42,White,Completed High School,2.9
+Male,31,White,Completed High School,2.4
+Gender Minority,25,White,Some Postgraduate Education,4.6
+Gender Minority,NA,White,Some College/University,2.7
+Gender Minority,45,White,Completed High School,1
+NA,43,South Asian,Completed College/University,6.9
+Male,28,Black,Completed High School,4.8
+NA,56,White,Completed Postgraduate Education,5
+Gender Minority,51,White,NA,5
+Gender Minority,69,NA,Some College/University,4.9
+Gender Minority,24,LatinX,Completed High School,5.3
+Male,48,White,NA,5.6
+Male,25,White,Some Postgraduate Education,7
+Gender Minority,56,White,Some College/University,6.5
+Gender Minority,51,Black,NA,6.3
+NA,61,White,Some College/University,4.4
