@@ -1,0 +1,1 @@
+These materials are part of a workshop on handling missing data in R. This document will guide you through the complexities of managing missing data in R, covering foundational concepts, visualizing missing data, and the practical application of multiple imputation using the mice package with a fictitious employee dataset.
